@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#aaadb7">
+
+    <Button
+        android:id="@+id/frg_01_button01"
+        android:text="Layout01"
+        android:tag="Layout01"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"/>
+    <Button
+        android:id="@+id/frg_01_button02"
+        android:text="Layout02"
+        android:tag="Layout02"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"/>
+    <Button
+        android:id="@+id/frg_01_button03"
+        android:text="Layout03"
+        android:tag="Layout03"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"/>
+    <Button
+        android:id="@+id/frg_01_button04"
+        android:text="Layout04"
+        android:tag="Layout04"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"/>
+    <Button
+        android:id="@+id/frg_01_button05"
+        android:text="Layout05"
+        android:tag="Layout05"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"/>
+
+</LinearLayout>
